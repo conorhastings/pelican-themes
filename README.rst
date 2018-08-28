@@ -2,7 +2,7 @@ Pelican Themes
 ##############
 
 This repository contains themes for Pelican. Feel free to clone, add your own
-theme, and submit a pull request. It's community-managed!
+theme, and submit a pull request. It's community-managed!kkkkkkssdfeamkger
 
 A live version can be seen at http://www.pelicanthemes.com.
 
